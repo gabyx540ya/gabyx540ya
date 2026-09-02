@@ -25,6 +25,7 @@ I'm particularly interested in C++ tooling, developer experience, and building t
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />  
 </p>
+
 ---
 
 ### DataBase
@@ -57,6 +58,6 @@ The goal is to simplify common C++ workflows such as:
 
 ### 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyx540ya&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/gabyx540ya)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabyx540ya&theme=github-dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabyx540ya&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/gabyx540ya)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabyx540ya&layout=compact)
