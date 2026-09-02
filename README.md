@@ -29,7 +29,7 @@ I'm particularly interested in C++ tooling, developer experience, and building t
 ---
 
 ### DataBase
-  <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
 </p>
 
