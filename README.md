@@ -3,7 +3,23 @@
 ### 🚀 C++ Developer & Tools Enthusiast
 I love building efficient software, automation tools, exploring low-level programming, and developing with Flutter.
 
-I'm particularly interested in C++ tooling, developer experience, and building tools that make development simpler.
+I'm the creator of **[Cargopp](https://github.com/gabyx540ya/cargopp)** a lightweight C++ project management tool inspired by Rust's Cargo.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabyx540ya&theme=github-dark)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabyx540ya&layout=compact)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabyx540ya&theme=github-dark)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabyx540ya&layout=compact).
 
 ---
 
@@ -44,20 +60,4 @@ I'm particularly interested in C++ tooling, developer experience, and building t
 
 ---
 
-### 🛠️ Currently Working On
-**[Cargopp](https://github.com/gabyx540ya/cargopp)** — a lightweight C++ project management tool inspired by Rust's Cargo.
 
-The goal is to simplify common C++ workflows such as:
-* Creating new C++ projects
-* Configuring projects with CMake
-* Building projects
-* Running executables
-* Managing common development workflows
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabyx540ya&theme=github-dark)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabyx540ya&layout=compact)
