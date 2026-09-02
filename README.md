@@ -57,6 +57,6 @@ The goal is to simplify common C++ workflows such as:
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyx540ya&show_icons=true&theme=dark)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyx540ya&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/gabyx540ya)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabyx540ya&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabyx540ya&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/gabyx540ya)
