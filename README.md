@@ -18,24 +18,33 @@ I'm particularly interested in C++ tooling, developer experience, and building t
   
   <br /> 
 </p>
+
+---
+
 ### Tools and Infra
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />  
 </p>
+---
+
 ### DataBase
   <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
 </p>
+
+---
+
 ### others Skills
 <p align="left">
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" /> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
 </p>
+
 ---
 
 ### 🛠️ Currently Working On
-**[Cargopp](https://github.com)** — a lightweight C++ project management tool inspired by Rust's Cargo.
+**[Cargopp](https://github.com/gabyx540ya/cargopp)** — a lightweight C++ project management tool inspired by Rust's Cargo.
 
 The goal is to simplify common C++ workflows such as:
 * Creating new C++ projects
@@ -47,7 +56,7 @@ The goal is to simplify common C++ workflows such as:
 ---
 
 ### 📊 GitHub Stats
-<p align="left"> 
-  <img src="https://vercel.app" alt="Gaby's GitHub Stats" height="180" /> 
-  <img src="https://vercel.app" alt="Top Languages" height="180" /> 
-</p>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyx540ya&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabyx540ya&layout=compact)
