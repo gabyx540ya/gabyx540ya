@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Gaby! 👋
 
-<!--
-**gabyx540ya/gabyx540ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 C++ Developer & Tools Enthusiast
+I love building efficient software, automation scripts, exploring low-level programming and Flutter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools I Use
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Rust" />
+  <img src="https://shields.io" alt="Dart" />
+  <img src="https://shields.io" alt="Flutter" />
+  <br />
+  <!-- Tools & Infra -->
+  <img src="https://shields.io" alt="Bash" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="CMake" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Gaby's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
+
+---
