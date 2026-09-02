@@ -7,22 +7,6 @@ I'm the creator of **[Cargopp](https://github.com/gabyx540ya/cargopp)** a lightw
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabyx540ya&theme=github-dark)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabyx540ya&layout=compact)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabyx540ya&theme=github-dark)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabyx540ya&layout=compact).
-
----
-
 ### 💻 Programming Languages
 <p align="left"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
